@@ -1,0 +1,15 @@
+.estilo{
+    background:red;
+    color:white;
+    padding: 15px; /*espaciado interno*/
+}
+
+.bg-verde{
+    background: green;
+    font-weight: bold;
+}
+
+.bg-rojo{
+    background: blue;
+    font-weight: bold;
+}
